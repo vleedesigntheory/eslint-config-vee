@@ -1,1 +1,5 @@
-console.log('eslint-config-vee')
+const { defaultRule } = require('./rules');
+
+module.exports = {
+    rule: defaultRule
+}
