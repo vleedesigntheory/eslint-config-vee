@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-vee",
   "version": "1.0.2",
-  "description": "eslint config for vee team",
+  "description": "ESLint Config for Vee UI",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
