@@ -20,4 +20,4 @@ The technical selection is based on the `Yeoman` scaffold template generation sc
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) 2023-present VLeeDesignTheory
+Copyright (c) 2021-present VLeeDesignTheory
